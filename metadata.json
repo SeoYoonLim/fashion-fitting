@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Fitting Room AI",
+  "description": "An AI-powered virtual fitting room that allows you to upload photos of a person, a top, and a bottom to generate an image of the person wearing the selected outfit.",
+  "requestFramePermissions": []
+}
